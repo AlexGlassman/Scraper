@@ -1,0 +1,10 @@
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\bin\Debug\RitualsScraperUK.exe.config
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\bin\Debug\RitualsScraperUK.exe
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\bin\Debug\RitualsScraperUK.pdb
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\bin\Debug\CsvHelper.dll
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\bin\Debug\WebDriver.dll
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\bin\Debug\CsvHelper.xml
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\bin\Debug\WebDriver.xml
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\obj\Debug\RitualsScraperUK.csprojResolveAssemblyReference.cache
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\obj\Debug\RitualsScraperUK.exe
+c:\users\alexander.glassman\documents\visual studio 2015\Projects\RitualsScraperUK\RitualsScraperUK\obj\Debug\RitualsScraperUK.pdb
